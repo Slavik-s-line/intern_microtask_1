@@ -62,7 +62,6 @@ my_inventory = [
 ]
 my_story = ShopInventory.new(my_inventory)
 
-p my_story.inventory
 p my_story.item_in_stock
 p my_story.affordable
 p my_story.out_of_stock
