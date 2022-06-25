@@ -40,12 +40,6 @@ This script works on all operating systems, but OS X or Linux is preferred.
 
 2. Go into your favorite code editor and open repository from GitHub as Progect.
 
-3. Run script.rb or bash_script.sh.
-
-If you have done correct, you will see the output of the script in terminal.
-
-2. Go into your favorite code editor and open repository from GitHub as Progect.
-
-3. Run script.rb or bash_script.sh.
+3. Run script main.rb.
 
 If you have done correct, you will see the output of the script in terminal.
